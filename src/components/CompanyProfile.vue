@@ -8,10 +8,10 @@
     </p>
 
     <p>
-      Beers for the people is a rapidly growing brewery in Sweden and is often
+      Beers for the People is a rapidly growing brewery in Sweden and is often
       seen on TV adverts. It houses three warehouses in Stockholm, Malmö and
       Örebro and has plans to open two more in late 2022 in Kalmar and
-      Gothenburg.
+      Gothenburg. We are so excited for this!
     </p>
     <p>
       Beers for the People are famous for their recommendations of accompanying
@@ -70,6 +70,12 @@
     box-sizing: border-box;
   }
 
+  .input-container {
+    display: flex;
+    flex-direction: column;
+    padding: 20px 0;
+  }
+
   input[type='text'],
   [type='email'],
   textarea {
@@ -79,14 +85,16 @@
     border-radius: 5px;
     box-sizing: border-box;
     resize: vertical;
+    margin-bottom: 20px;
   }
 
   input[type='submit'] {
     background-color: gold;
-    color: white;
+    color: black;
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
+    width: 5%;
   }
   h1 {
     color: gold;

@@ -4,50 +4,50 @@
       class="beer-images"
       src="https://images.punkapi.com/v2/2.png"
       width="500"
-      height="500"
+      height="700"
     />
     <img
       class="beer-images"
       src="https://images.punkapi.com/v2/16.png "
       width="500"
-      height="500"
+      height="700"
     />
     <img
       class="beer-images"
       src="https://images.punkapi.com/v2/12.png"
       width="500"
-      height="500"
+      height="700"
     />
     <img
       class="beer-images"
       src="https://images.punkapi.com/v2/5.png"
       width="500"
-      height="500"
+      height="700"
     />
 
     <img
       class="beer-images"
       src="https://images.punkapi.com/v2/19.png"
       width="500"
-      height="500"
+      height="700"
     />
     <img
       class="beer-images"
       src="https://images.punkapi.com/v2/6.png"
       width="500"
-      height="500"
+      height="700"
     />
     <img
       class="beer-images"
       src="https://images.punkapi.com/v2/10.png"
       width="500"
-      height="500"
+      height="700"
     />
     <img
       class="beer-images"
       src="https://images.punkapi.com/v2/14.png"
       width="500"
-      height="500"
+      height="700"
     />
   </div>
 </template>

@@ -42,7 +42,10 @@
 
   li:hover {
     background-color: gold;
-    border-bottom-color: yellowgreen;
+  }
+
+  li a {
+    text-decoration: none;
   }
 
   .image-logo {

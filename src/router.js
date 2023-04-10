@@ -7,8 +7,8 @@ import CompanyProfile from './components/CompanyProfile.vue'
 export default createRouter({
   history: createWebHashHistory(),
   routes: [
-    { component: BeerGenerator, path: '/BeerGenerator' },
     { component: BeerSelection, path: '/' },
+    { component: BeerGenerator, path: '/BeerGenerator' },
     { component: CompanyProfile, path: '/CompanyProfile' }
   ]
 })

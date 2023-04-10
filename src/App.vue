@@ -3,7 +3,6 @@
   <div id="app"></div>
   <NavBar />
 </template>
-
 <script>
   import NavBar from './components/NavBar.vue'
   import LikeButton from './components/LikeButton.vue'
