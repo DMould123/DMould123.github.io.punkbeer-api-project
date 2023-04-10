@@ -1,4 +1,4 @@
-# Brewdog Generator 🦁
+# Punk API Random Beer Generator 🍻
 This is a simple web app that generates random beers from the Punk API.
 
 ## Technologies Used
@@ -6,12 +6,10 @@ Vue
 
 ## Installation
 
-To use this app, simply clone the repository to your local machine and open the index.html file in your browser. 
-You will also need an active internet connection to load the necessary CSS and JavaScript files.
-
-git clone https://github.com/your-username/game-of-thrones-quote-generator.git
-cd game-of-thrones-quote-generator
-open index.html
+To use this app, simply clone the repository to your local machine and open the terminal and enter npm run dev.
+git clone https://github.com/your-username/DMould123.github.io.apiproject.git
+cd /DMould123.github.io.apiproject
+npm run dev
 
 ## Features
 Navigation bar with links to Home, Beer Generator and Company Profile/Contact Page.
