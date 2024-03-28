@@ -16,7 +16,7 @@ The objectives of the Punk API Random Beer Generator project include:
 ## Tech Stack 💻
 
 - Vue.js
-- 
+  
 ## Installation 🔧
 
 To run the Punk API Random Beer Generator locally, follow these steps:
