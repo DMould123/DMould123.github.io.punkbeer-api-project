@@ -37,7 +37,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Author 📚
 
-- David Mould
+- David Mould (This project was one of my first created at school, so is not the best!)
 
 - ## Credits 🌟
 
