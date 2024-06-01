@@ -1,26 +1,44 @@
 # Punk API Random Beer Generator 🍻
-This is a simple web app that generates random beers from the Punk API.
 
-## Technologies Used
-Vue
+## Description 🌍
 
-## Installation
+The Punk API Random Beer Generator is a simple web application that provides users with random beer recommendations from the Punk API. This project aims to offer an enjoyable experience for beer enthusiasts.
 
-To use this app, simply clone the repository to your local machine and open the terminal and enter npm run dev.
+## Objectives 🎯
+
+The objectives of the Punk API Random Beer Generator project include:
+
+- 🍻 Generating random beer recommendations from the Punk API.
+- 🌐 Providing an intuitive and user-friendly interface.
+- 🖥️ Creating a web application compatible with various devices and screen sizes.
+- 🚀 Showcasing proficiency in Vue.js and asynchronous data fetching.
+
+## Tech Stack 💻
+
+- Vue.js
+  
+## Installation 🔧
+
+To run the Punk API Random Beer Generator locally, follow these steps:
+
+```bash
 git clone https://github.com/your-username/DMould123.github.io.apiproject.git
-cd /DMould123.github.io.apiproject
+npm install
 npm run dev
+```
 
-## Features
-Navigation bar with links to Home, Beer Generator and Company Profile/Contact Page.
+## Features ✨
 
-## License
+- Navigation bar with links to Home, Beer Generator, and Company Profile/Contact Page. 🚀
+
+## License 📝
+
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-## Author
-David Mould
+## Author 📚
 
-## Credits
+- David Mould (This project was one of my first created at school, so is not the best!)
 
-The quotes used in this app were sourced from https://api.punkapi.com/v2/beers/random, you can find more information and endpoints at 
-https://punkapi.com/documentation/v2
+- ## Credits 🌟
+
+- The quotes used in this app were sourced from https://api.punkapi.com/v2/beers/random. You can find more information and endpoints at https://punkapi.com/documentation/v2.
