@@ -2,50 +2,50 @@
   <div class="beer-grid">
     <img
       class="beer-images"
-      src="https://images.punkapi.com/v2/2.png"
+      src="https://res.cloudinary.com/dele4dvi9/image/upload/v1717270047/2_rcwj8h.png"
       width="500"
       height="700"
     />
     <img
       class="beer-images"
-      src="https://images.punkapi.com/v2/16.png "
+      src="https://res.cloudinary.com/dele4dvi9/image/upload/v1717269990/16_bxhlgk.png"
       width="500"
       height="700"
     />
     <img
       class="beer-images"
-      src="https://images.punkapi.com/v2/12.png"
+      src="https://res.cloudinary.com/dele4dvi9/image/upload/v1717270112/12_whllol.png"
       width="500"
       height="700"
     />
     <img
       class="beer-images"
-      src="https://images.punkapi.com/v2/5.png"
+      src="https://res.cloudinary.com/dele4dvi9/image/upload/v1717270165/5_exc4mm.png"
       width="500"
       height="700"
     />
 
     <img
       class="beer-images"
-      src="https://images.punkapi.com/v2/19.png"
+      src="https://res.cloudinary.com/dele4dvi9/image/upload/v1717270292/19_ijjcsa.png"
       width="500"
       height="700"
     />
     <img
       class="beer-images"
-      src="https://images.punkapi.com/v2/6.png"
+      src="https://res.cloudinary.com/dele4dvi9/image/upload/v1717270344/6_pxruub.png"
       width="500"
       height="700"
     />
     <img
       class="beer-images"
-      src="https://images.punkapi.com/v2/10.png"
+      src="https://res.cloudinary.com/dele4dvi9/image/upload/v1717270423/10_qbequm.png"
       width="500"
       height="700"
     />
     <img
       class="beer-images"
-      src="https://images.punkapi.com/v2/14.png"
+      src="https://res.cloudinary.com/dele4dvi9/image/upload/v1717270471/14_zh1rqx.png"
       width="500"
       height="700"
     />
